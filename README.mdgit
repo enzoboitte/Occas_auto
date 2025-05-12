@@ -1,0 +1,1 @@
+"# Occas_auto"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/enzoboitte/Occas_auto.gitgit push -u origin main

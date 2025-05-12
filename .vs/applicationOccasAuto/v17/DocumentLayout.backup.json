@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|solutionrelative:src\\model\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|c:\\users\\eboitte\\onedrive - lyc\u00E9e sidoine apollinaire\\programmation\\tp\\2eme annee\\2 - octobre\\applicationoccasauto\\src\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|solutionrelative:src\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|solutionrelative:src\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\page\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|solutionrelative:src\\page\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E492983A-07EE-4F0D-A313-7AB57D9EBC1F}|applicationOccasAuto.csproj|solutionrelative:src\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\view\\frmMain.cs",
+              "RelativeDocumentMoniker": "src\\view\\frmMain.cs",
+              "ToolTip": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\view\\frmMain.cs",
+              "RelativeToolTip": "src\\view\\frmMain.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:17:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\view\\frmMain.cs",
+              "RelativeDocumentMoniker": "src\\view\\frmMain.cs",
+              "ToolTip": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\view\\frmMain.cs [Design]",
+              "RelativeToolTip": "src\\view\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:17:54.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\page\\frmLogin.cs",
+              "RelativeDocumentMoniker": "src\\page\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\page\\frmLogin.cs [Design]",
+              "RelativeToolTip": "src\\page\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:17:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbManager.cs",
+              "DocumentMoniker": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\dbManager.cs",
+              "RelativeDocumentMoniker": "src\\model\\dbManager.cs",
+              "ToolTip": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\dbManager.cs",
+              "RelativeToolTip": "src\\model\\dbManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:17:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\Account.cs",
+              "RelativeDocumentMoniker": "src\\model\\Account.cs",
+              "ToolTip": "C:\\Users\\eboitte\\OneDrive - Lyc\u00E9e Sidoine Apollinaire\\Programmation\\TP\\2eme annee\\2 - octobre\\applicationOccasAuto\\src\\model\\Account.cs",
+              "RelativeToolTip": "src\\model\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:17:18.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
